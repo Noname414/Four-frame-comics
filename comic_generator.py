@@ -84,6 +84,27 @@ class ComicGenerator:
                 
                 search_result = search_response.text
                 print("📊 已完成資訊搜尋，正在分析...")
+
+                for each in search_response.candidates[0].content.parts:
+                    print(f"結果:{each.text}")
+                    
+                print("="*60)
+
+                web_search_queries = search_response.candidates[0].grounding_metadata.web_search_queries
+                print("搜索關鍵詞:")
+                for query in web_search_queries:
+                    print(f"- {query}")
+
+                print("="*60)
+
+                # Extract reference links
+                grounding_chunks = search_response.candidates[0].grounding_metadata.grounding_chunks
+                print("資訊來源:")
+                for chunk in grounding_chunks:
+                    if hasattr(chunk, 'web') and hasattr(chunk.web, 'uri') and hasattr(chunk.web, 'title'):
+                        print(f"- 標題: {chunk.web.title}\n- 連結: {chunk.web.uri}")
+                        
+
                 
             except Exception as e:
                 print(f"⚠️  Google 搜尋失敗，使用基本分析模式: {e}")
@@ -254,7 +275,9 @@ class ComicGenerator:
         """儲存漫畫劇本為 JSON 檔案"""
         os.makedirs(output_dir, exist_ok=True)
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        script_path = os.path.join(output_dir, f"comic_script_{timestamp}.json")
+        comic_dir = os.path.join(output_dir, f"comic_{timestamp}")
+        os.makedirs(comic_dir, exist_ok=True)
+        script_path = os.path.join(comic_dir, f"script.json")
         
         with open(script_path, 'w', encoding='utf-8') as f:
             json.dump(comic_script.model_dump(), f, ensure_ascii=False, indent=2)
@@ -317,7 +340,8 @@ class ComicGenerator:
             
 if __name__ == "__main__":
     generator = ComicGenerator()
-    result = generator.generate_full_comic("Trump vs. Musk: The Great Tweet War")
+    news_title = input("請輸入新聞標題: ")
+    result = generator.generate_full_comic(news_title)
     if result["success"]:
         print("\n🎉 生成成功！")
         print("檔案位置：")
