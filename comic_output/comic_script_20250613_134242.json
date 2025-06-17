@@ -1,0 +1,34 @@
+{
+  "title": "館長爭議事件簿",
+  "panels": [
+    {
+      "panel_number": 1,
+      "scene_description": "館長在健身房直播，滿身肌肉，背景是啞鈴和健身器材。他一邊擦汗，一邊對著鏡頭大喊。",
+      "dialogue": "館長: 我他媽最愛台灣了啦! 絕對沒有收中國一毛錢!",
+      "narrative_function": "諷刺館長否認收受中國資金",
+      "english_prompt": "cartoon style, 4-panel comic, clear characters. Panel 1: Gym owner (Chen Chih-han) intensely sweating, shouting to camera in a gym, dumbbells in the background, saying 'I love Taiwan! I didn't take money from China!'"
+    },
+    {
+      "panel_number": 2,
+      "scene_description": "鏡頭拉遠，一個西裝革履的神秘人物，戴著墨鏡，手裡拿著一個裝滿人民幣的公文包，遞給館長。館長一臉堆笑，偷偷摸摸地接過。",
+      "dialogue": "神秘人: (小聲) 這是這個月的... 辛苦了，陳先生。",
+      "narrative_function": "暗示館長私下收受中國資金",
+      "english_prompt": "cartoon style, 4-panel comic, clear characters. Panel 2: Zoom out. A shady man in a suit and sunglasses hands a briefcase full of RMB to the gym owner, who is grinning."
+    },
+    {
+      "panel_number": 3,
+      "scene_description": "館長直播畫面，但畫面下方跑馬燈顯示：「突發！館長員工遭襲擊！」。館長表情驚恐，但背景音樂還是很嗨。",
+      "dialogue": "館長: (結巴) 剛剛...剛剛我的員工... 沒事! 我們繼續聊健身!",
+      "narrative_function": "諷刺員工遇襲事件和館長的反應",
+      "english_prompt": "cartoon style, 4-panel comic, clear characters. Panel 3: Livestream screen showing the gym owner talking, but a breaking news banner at the bottom says 'Gym Owner's Employee Attacked!' The gym owner looks panicked."
+    },
+    {
+      "panel_number": 4,
+      "scene_description": "館長坐在警局裡，一臉愁容，旁邊的警察正在做筆錄。背景是拘留所的鐵欄杆。",
+      "dialogue": "警察: 陳先生，關於您自爆經營球版的事情... 我們需要進一步調查。",
+      "narrative_function": "暗示館長可能因賭博罪被起訴",
+      "english_prompt": "cartoon style, 4-panel comic, clear characters. Panel 4: The gym owner looking miserable in a police station, a policeman taking notes. Jail bars in the background."
+    }
+  ],
+  "overall_style": "幽默諷刺，適合成人"
+}

@@ -1,0 +1,34 @@
+{
+  "title": "貓咪市長",
+  "panels": [
+    {
+      "panel_number": 1,
+      "scene_description": "A crowded town square. Banners reading 'Vote Whiskers for Mayor!' A disgruntled citizen holding a sign saying 'Another politician promises...' A cat, Whiskers, in a tiny suit waves awkwardly.",
+      "dialogue": "Citizen: Great, another politician making empty promises! What can this cat even DO?",
+      "narrative_function": "Introduces the setting, the main character (Whiskers), and the initial skepticism.",
+      "english_prompt": "cartoon style, 4-panel comic, clear characters. Panel 1: A crowded town square. Banners reading 'Vote Whiskers for Mayor!' A disgruntled citizen holding a sign saying 'Another politician promises...' A cat, Whiskers, in a tiny suit waves awkwardly."
+    },
+    {
+      "panel_number": 2,
+      "scene_description": "A debate stage. Whiskers stands at a tiny podium. A human candidate sweats nervously beside him. The audience is a mix of people and cats.",
+      "dialogue": "Whiskers (in a thought bubble): More catnip for everyone! Human Candidate: ...and I promise to lower taxes... uh... meow?",
+      "narrative_function": "Develops the plot by showing the 'cat'didate in action and highlighting the absurdity.",
+      "english_prompt": "cartoon style, 4-panel comic, clear characters. Panel 2: A debate stage. Whiskers stands at a tiny podium. A human candidate sweats nervously beside him. The audience is a mix of people and cats."
+    },
+    {
+      "panel_number": 3,
+      "scene_description": "Election night. The town square is packed, everyone glued to a giant screen showing vote tallies. Whiskers' face is on the screen with a huge lead.",
+      "dialogue": "News Anchor: ...and the results are in! Whiskers has won in a landslide victory! People: MEOW! (cheering)",
+      "narrative_function": "Presents the surprising turn of events – Whiskers wins!",
+      "english_prompt": "cartoon style, 4-panel comic, clear characters. Panel 3: Election night. The town square is packed, everyone glued to a giant screen showing vote tallies. Whiskers' face is on the screen with a huge lead."
+    },
+    {
+      "panel_number": 4,
+      "scene_description": "The mayor's office. Whiskers, now in a larger suit, sits behind a desk piled high with cans of cat food. A human aide looks exasperated.",
+      "dialogue": "Aide: Mr. Mayor, the city budget is completely allocated to cat food! What about schools and roads? Whiskers (smirking): Meow.",
+      "narrative_function": "The humorous/ironic conclusion: the cat's campaign promise comes true, but with unexpected consequences.",
+      "english_prompt": "cartoon style, 4-panel comic, clear characters. Panel 4: The mayor's office. Whiskers, now in a larger suit, sits behind a desk piled high with cans of cat food. A human aide looks exasperated."
+    }
+  ],
+  "overall_style": "幽默諷刺，適合成人閱讀"
+}

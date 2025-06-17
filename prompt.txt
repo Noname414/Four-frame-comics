@@ -1,0 +1,31 @@
+你正在協助我開發一個 Python 專案，功能如下：
+
+---
+🎯 專案目標：
+使用者輸入一則「新聞標題」，系統將自動：
+1. 分析標題並抽取關鍵資訊（主角、動作、動機、場景、結果）
+2. 產生一則四格漫畫劇本，具備起承轉合，每格包含畫面描述與幽默對白
+3. 為每格生成對應的英文 prompt，用於 AI 圖像生成模型
+
+---
+💡 使用技術：
+- Gemini API for text generation（新聞分析 + 劇本 + prompt）
+- 可選圖像生成模型（如 Gemini Vision、DALL·E、SDXL）
+- 將來可能整合語音朗讀或 Web 前端
+
+---
+📌 目前開發重點：
+請幫我撰寫模組化的 Python 程式，包含：
+- `analyze_news(title)`：分析新聞標題，輸出 JSON 格式的角色/動機等資訊
+- `generate_script(info)`：根據分析結果生成四格漫畫腳本
+- `generate_image_prompts(script)`：為四格畫面各產生一段圖像 prompt（英文）
+- 每個模組都需乾淨、清楚、有 docstring
+
+你是熟悉 AI 工具應用的助手，請確保代碼簡潔可維護。必要時提醒我是否需要 API 金鑰、環境變數、例外處理等。
+
+重要：參考gemini sdk
+@Gemini API (libraries) 
+@Gemini API (google search) 
+@Gemini API (structured-output) 
+@Gemini API (image-generation) 
+必要時使用context7 獲取最新範例

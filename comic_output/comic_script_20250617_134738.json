@@ -1,0 +1,34 @@
+{
+  "title": "Trump vs. Musk: Tweet War",
+  "panels": [
+    {
+      "panel_number": 1,
+      "scene_description": "Donald Trump, in his Oval Office, angrily types on his phone. He's sweating slightly, and his tie is askew.",
+      "dialogue": "Trump: Musk is saying my 'One Big Beautiful Bill' is a DISASTER! CRAZY! He's a sore loser!",
+      "narrative_function": "Sets the scene; Trump reacts to Musk's criticism.",
+      "english_prompt": "Cartoon style, 4-panel comic, clear characters: Donald Trump in Oval Office, angrily typing on phone, sweating. Dialogue bubble: 'Musk is saying my 'One Big Beautiful Bill' is a DISASTER! CRAZY! He's a sore loser!'"
+    },
+    {
+      "panel_number": 2,
+      "scene_description": "Elon Musk, sitting in a futuristic-looking office, replies on Twitter (X). He's smirking and surrounded by screens displaying rocket launch footage and Tesla stock charts.",
+      "dialogue": "Musk: Trump's bill will add trillions to the debt! And I hear he's suddenly very interested in visiting Mars...wonder why? #EpsteinIsland",
+      "narrative_function": "Musk escalates the conflict with a serious allegation.",
+      "english_prompt": "Cartoon style, 4-panel comic, clear characters: Elon Musk in futuristic office, smirking, surrounded by screens showing rocket launches and Tesla stock charts. Dialogue bubble: 'Trump's bill will add trillions to the debt! And I hear he's suddenly very interested in visiting Mars...wonder why? #EpsteinIsland'"
+    },
+    {
+      "panel_number": 3,
+      "scene_description": "Trump, now red-faced and yelling into his phone, shakes his fist.",
+      "dialogue": "Trump: That Musk! He thinks he's so smart! His government contracts are TOAST! No more money for his rockets! SAD!",
+      "narrative_function": "Trump threatens Musk's business interests.",
+      "english_prompt": "Cartoon style, 4-panel comic, clear characters: Donald Trump, red-faced, yelling into phone, shaking fist. Dialogue bubble: 'That Musk! He thinks he's so smart! His government contracts are TOAST! No more money for his rockets! SAD!'"
+    },
+    {
+      "panel_number": 4,
+      "scene_description": "Musk shrugs, a knowing glint in his eye. A tiny Dogecoin icon winks on one of his screens.",
+      "dialogue": "Musk: Another day, another billionaire baby throwing a tantrum. Guess I'll just keep building the future. And maybe buy Twitter again... for fun.",
+      "narrative_function": "Musk dismisses Trump's threats with a nonchalant attitude.",
+      "english_prompt": "Cartoon style, 4-panel comic, clear characters: Elon Musk shrugs, knowing glint in eye. Tiny Dogecoin icon winks on screen. Dialogue bubble: 'Another day, another billionaire baby throwing a tantrum. Guess I'll just keep building the future. And maybe buy Twitter again... for fun.'"
+    }
+  ],
+  "overall_style": "Humorous and satirical, suitable for adult readers."
+}

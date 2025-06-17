@@ -1,0 +1,34 @@
+{
+  "title": "Trump vs. Musk: The Great Tweet War",
+  "panels": [
+    {
+      "panel_number": 1,
+      "scene_description": "Donald Trump sits in the Oval Office, looking at his phone with a grumpy expression. Elon Musk is on his own rocket, about to launch, but also checking his phone.",
+      "dialogue": "Trump (grumbling): Musk is criticizing my 'Big, Beautiful Bill' again?! Unbelievable!",
+      "narrative_function": "Setting the scene and introducing the conflict: Trump is annoyed by Musk's criticism.",
+      "english_prompt": "cartoon style, 4-panel comic, clear characters: Panel 1: Donald Trump in Oval Office, grumpy, looking at phone. Elon Musk on rocket, checking phone. Speech bubbles."
+    },
+    {
+      "panel_number": 2,
+      "scene_description": "Trump is now on Truth Social, ranting. Musk is on X/Twitter, replying sarcastically. Headlines flash: 'Tesla Stock Plummets!'",
+      "dialogue": "Trump (on Truth Social): Ungrateful Elon! He wouldn't be where he is without me!\nMusk (on X/Twitter): Maybe he should focus on running the country instead of tweeting.",
+      "narrative_function": "Escalating the conflict: The two engage in a public spat on social media, affecting Tesla's stock.",
+      "english_prompt": "cartoon style, 4-panel comic, clear characters: Panel 2: Trump ranting on Truth Social. Musk replying sarcastically on X/Twitter. Headlines about Tesla stock falling."
+    },
+    {
+      "panel_number": 3,
+      "scene_description": "Mike Pence and a stressed-out White House Chief of Staff are desperately trying to mediate via Zoom. Pence is holding a whiteboard with 'Compromise!' written on it. Trump and Musk are both on separate screens, looking stubborn.",
+      "dialogue": "Pence (pleading): Gentlemen, can't we all just get along? Think of the children...and the stock prices!\nChief of Staff (whispering): My retirement fund...",
+      "narrative_function": "A turning point: Pence and the Chief of Staff attempt to mediate the conflict.",
+      "english_prompt": "cartoon style, 4-panel comic, clear characters: Panel 3: Pence and Chief of Staff mediating via Zoom. Trump and Musk on separate screens, looking stubborn. Whiteboard with 'Compromise!'"
+    },
+    {
+      "panel_number": 4,
+      "scene_description": "Trump and Musk are now golfing together. Trump is wearing a 'Make America Great Again' hat. Musk is wearing a t-shirt that says 'I'm with Stupid' with an arrow pointing at Trump. They're both smiling awkwardly.",
+      "dialogue": "Trump: Water under the bridge, Elon! We're friends again, right?\nMusk (thinking): As long as he doesn't mess with my Mars plans...",
+      "narrative_function": "Resolution: Trump and Musk reconcile, but with a hint of underlying tension and continued satire.",
+      "english_prompt": "cartoon style, 4-panel comic, clear characters: Panel 4: Trump and Musk golfing together, smiling awkwardly. Trump in MAGA hat. Musk in 'I'm with Stupid' shirt."
+    }
+  ],
+  "overall_style": "Humorous and satirical, targeting adults."
+}

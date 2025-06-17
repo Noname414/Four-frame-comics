@@ -1,0 +1,34 @@
+{
+  "title": "From Cat Hater to Cat Lover",
+  "panels": [
+    {
+      "panel_number": 1,
+      "scene_description": "A woman in her late 20s, dressed in a stylish business suit, is walking past a dumpster in a dark alleyway. She's holding her nose in disgust. A small, scruffy cat with big eyes peeks out from behind the dumpster.",
+      "dialogue": "Woman: Ugh, cats! Disgusting creatures. Keep your distance!",
+      "narrative_function": "Introduces the protagonist's initial dislike of cats and sets the scene.",
+      "english_prompt": "cartoon style, 4-panel comic, clear characters. Panel 1: A young woman in a business suit wrinkles her nose in disgust while walking past a dumpster. A scruffy cat peeks out."
+    },
+    {
+      "panel_number": 2,
+      "scene_description": "A few weeks later, the woman is at home, shivering under a blanket. It's snowing outside. She's working on her laptop, looking stressed. The cat is now inside, looking longingly at her.",
+      "dialogue": "Woman: (typing furiously) Deadline... can't... focus! So cold!",
+      "narrative_function": "Develops the plot by introducing a need for comfort and companionship in the woman's life.",
+      "english_prompt": "cartoon style, 4-panel comic, clear characters. Panel 2: The woman works on her laptop shivering under a blanket while it snows outside. The scruffy cat watches her."
+    },
+    {
+      "panel_number": 3,
+      "scene_description": "Close-up on the woman's face. She's still working, but now the cat is curled up on her lap, purring loudly. She looks annoyed but slightly less stressed.",
+      "dialogue": "Woman: (grumbling) Fine, you win. Just... stay still. And don't expect me to buy you fancy tuna.",
+      "narrative_function": "Presents the turning point where the woman grudgingly accepts the cat's presence and comfort.",
+      "english_prompt": "cartoon style, 4-panel comic, clear characters. Panel 3: Close-up on the woman's face as the cat purrs on her lap. She looks annoyed."
+    },
+    {
+      "panel_number": 4,
+      "scene_description": "Years later. The woman is now wearing cat-themed pajamas and is covered in cat hair. She's surrounded by cat toys and scratching posts. The cat is sitting on her head. She's smiling serenely.",
+      "dialogue": "Woman: (whispering) My precious... My little fluffball... I can't imagine life without you!",
+      "narrative_function": "Concludes the story with a humorous and ironic ending, showcasing the complete transformation of the woman.",
+      "english_prompt": "cartoon style, 4-panel comic, clear characters. Panel 4: Years later, the woman in cat pajamas is covered in cat hair and surrounded by cat toys. The cat sits on her head."
+    }
+  ],
+  "overall_style": "Humorous and satirical, targeted towards an adult audience."
+}

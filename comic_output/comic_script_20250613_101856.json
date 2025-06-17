@@ -1,0 +1,34 @@
+{
+  "title": "Air India Crash: Dreamliner Down",
+  "panels": [
+    {
+      "panel_number": 1,
+      "scene_description": "A shiny, new Air India Boeing 787-8 Dreamliner taxis down the runway at Ahmedabad Airport. Passengers are visible through the windows, looking excited. The pilot gives a thumbs-up out the cockpit window.",
+      "dialogue": "Pilot: (Cheerfully) Ready for takeoff! This Dreamliner is gonna fly like a dream!",
+      "narrative_function": "Sets the scene; introduces the protagonists and a sense of optimism before the disaster.",
+      "english_prompt": "Cartoon style, 4-panel comic, clear characters: Panel 1. Air India Dreamliner on runway, Ahmedabad Airport. Excited passengers, pilot giving thumbs up. Dialogue bubble: 'Ready for takeoff! This Dreamliner is gonna fly like a dream!'"
+    },
+    {
+      "panel_number": 2,
+      "scene_description": "The plane is struggling to gain altitude shortly after takeoff. Smoke is billowing from one engine. Inside, passengers are screaming, and overhead bins are popping open, spilling luggage.",
+      "dialogue": "Passenger 1: (Screaming) What's happening?! We're not going up!",
+      "narrative_function": "Develops the conflict; shows the initial signs of the impending disaster.",
+      "english_prompt": "Cartoon style, 4-panel comic, clear characters: Panel 2. Plane struggling to ascend, smoke from engine. Passengers screaming, luggage falling. Dialogue: 'What's happening?! We're not going up!'"
+    },
+    {
+      "panel_number": 3,
+      "scene_description": "The Dreamliner is nosediving towards a residential area. A group of engineers is watching from the airport control tower with panicked expressions. One engineer is holding a checklist with 'FLAPS: 0' highlighted.",
+      "dialogue": "Engineer: (Panicked) Oh no! Flaps set to zero! That's why it couldn't get enough lift!",
+      "narrative_function": "The turning point; reveals the critical error that led to the crash.",
+      "english_prompt": "Cartoon style, 4-panel comic, clear characters: Panel 3. Plane nosediving towards houses. Control tower engineers panicked, one holding checklist 'FLAPS: 0'. Dialogue: 'Oh no! Flaps set to zero!'"
+    },
+    {
+      "panel_number": 4,
+      "scene_description": "A single passenger is seen sitting on a piece of luggage amidst the wreckage, unharmed but looking incredibly bored. He is playing a handheld video game. A news reporter is interviewing him.",
+      "dialogue": "Reporter: (Into microphone) Sir, you're the only survivor! How do you feel?",
+      "narrative_function": "Conclusion; darkly humorous outcome. Highlights the absurdity of the situation with irony.",
+      "english_prompt": "Cartoon style, 4-panel comic, clear characters: Panel 4. Lone survivor playing handheld game amidst wreckage. Reporter with microphone. Dialogue: 'Sir, you're the only survivor! How do you feel?'"
+    }
+  ],
+  "overall_style": "Darkly humorous and satirical."
+}

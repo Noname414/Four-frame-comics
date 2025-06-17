@@ -1,0 +1,34 @@
+{
+  "title": "全聯10元便當之亂",
+  "panels": [
+    {
+      "panel_number": 1,
+      "scene_description": "A person excitedly stares at their phone, showing the 全聯 (PX Mart) app. The app displays a banner for the 10-dollar bento box promotion with a 排骨便當 (pork rib bento) image.",
+      "dialogue": "Me: (Thinking) 10-dollar bento?! That's cheaper than instant noodles! Time to feast!",
+      "narrative_function": "Introduces the scenario and the protagonist's motivation.",
+      "english_prompt": "cartoon style, 4-panel comic, clear characters, panel showing a person excitedly looking at a phone displaying a 全聯 app banner with a 10-dollar bento promotion"
+    },
+    {
+      "panel_number": 2,
+      "scene_description": "The same person frantically taps their phone screen, with error messages popping up on the 全聯 app. Sweat is dripping down their face.",
+      "dialogue": "System: ERROR! ERROR! Server overloaded. Please try again later. Me: Nooo! My precious bento!",
+      "narrative_function": "Develops the conflict: the app crashes due to high demand.",
+      "english_prompt": "cartoon style, 4-panel comic, clear characters, panel showing a person frantically tapping their phone with error messages popping up on the 全聯 app"
+    },
+    {
+      "panel_number": 3,
+      "scene_description": "The person is now sitting dejectedly in front of their phone, staring blankly. The app now shows a message: \"Sold Out!\" Another user is gleefully holding up a bento box in the background.",
+      "dialogue": "Me: (Muttering) I knew I should've set an alarm... and written a bot... and bribed the server admin...",
+      "narrative_function": "Shows the turning point: the bento boxes are sold out.",
+      "english_prompt": "cartoon style, 4-panel comic, clear characters, panel showing a dejected person staring at their phone with a 'Sold Out!' message, another person gleefully holding up a bento in the background"
+    },
+    {
+      "panel_number": 4,
+      "scene_description": "The person is now happily eating instant noodles, but glaring at a 全聯 delivery truck driving by in the background. A small sign on the truck reads: \"全聯小時達: 買不到10元便當？沒關係，還有泡麵！(Can't get the 10-dollar bento? No worries, we have instant noodles!)\"",
+      "dialogue": "Me: (Grumbling while eating noodles) At least it's edible... Thanks, 全聯, for the 'discount' on my disappointment.",
+      "narrative_function": "Provides a humorous conclusion: the person resorts to instant noodles, highlighting the irony.",
+      "english_prompt": "cartoon style, 4-panel comic, clear characters, panel showing a person happily eating instant noodles but glaring at a 全聯 delivery truck with a sign: 'Can't get the 10-dollar bento? No worries, we have instant noodles!'"
+    }
+  ],
+  "overall_style": "Humorous and satirical, suitable for adults."
+}

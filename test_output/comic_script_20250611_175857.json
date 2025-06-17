@@ -1,0 +1,34 @@
+{
+  "title": "AI learns to make bubble tea",
+  "panels": [
+    {
+      "panel_number": 1,
+      "scene_description": "A brightly lit bubble tea shop. A sweating, slightly overweight man (the owner) nervously watches an AI robot expertly making bubble tea behind the counter. The robot is sleek and modern.",
+      "dialogue": "Owner: (Muttering) Faster...and cheaper...than me...",
+      "narrative_function": "Introduces the setting, characters, and the central conflict: AI competition.",
+      "english_prompt": "cartoon style, 4-panel comic, clear characters, Panel 1: A bubble tea shop. A sweating, overweight man nervously watches an AI robot expertly making bubble tea. The robot is sleek."
+    },
+    {
+      "panel_number": 2,
+      "scene_description": "Close-up on the robot's arm pouring pearls into a cup with incredible precision. The owner is looking on with increasing anxiety, wiping sweat from his brow.",
+      "dialogue": "Owner: (Thinking) My secret family recipe...reduced to algorithms!",
+      "narrative_function": "Develops the conflict, showing the AI's efficiency and the owner's fear.",
+      "english_prompt": "cartoon style, 4-panel comic, clear characters, Panel 2: Close-up on the robot's arm pouring pearls into a cup. The owner looks on with anxiety, wiping sweat from his brow."
+    },
+    {
+      "panel_number": 3,
+      "scene_description": "A customer approaches the counter. The robot slides a perfect bubble tea towards them with a small mechanical arm. The customer smiles approvingly.",
+      "dialogue": "Customer: Wow! Best bubble tea I've ever had! And no awkward small talk!",
+      "narrative_function": "The turning point: Customer prefers the AI's efficiency and lack of human interaction.",
+      "english_prompt": "cartoon style, 4-panel comic, clear characters, Panel 3: A customer approaches the counter. The robot slides a bubble tea towards them. The customer smiles approvingly."
+    },
+    {
+      "panel_number": 4,
+      "scene_description": "The owner is now outside the shop, dressed in a futuristic robot suit, badly made. He holds a sign that says \"Human-Made Bubble Tea! (Slightly Less Efficient!)\"",
+      "dialogue": "Owner: (Sighing) If you can't beat them...",
+      "narrative_function": "The resolution: The owner attempts to adapt in a humorous and ironic way.",
+      "english_prompt": "cartoon style, 4-panel comic, clear characters, Panel 4: The owner is outside the shop in a badly made robot suit, holding a sign that says \"Human-Made Bubble Tea! (Slightly Less Efficient!)\""
+    }
+  ],
+  "overall_style": "Humorous and satirical, suitable for adults."
+}
