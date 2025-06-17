@@ -1,6 +1,9 @@
 # 🎨 四格漫畫生成器
 
-一個基於 Google Gemini AI 的自動四格漫畫生成系統，能夠根據新聞標題自動創作幽默的四格漫畫。
+## 一個基於 Google Gemini AI 的自動四格漫畫生成系統，能夠根據新聞標題自動創作幽默的四格漫畫。
+
+![image](image.png)
+![image-1](image-1.png)
 
 ## 🎯 功能特色
 
@@ -99,22 +102,22 @@ if result["success"]:
 
 ```markdown
 comic-agent/
-├── comic_generator.py      # 主要生成器類別
-├── main.py                # 命令列介面
-├── comic_demo.ipynb       # 示範 Notebook
-├── requirements.txt       # Python 套件需求
-├── README.md              # 說明文檔
-├── comic_output/          # 輸出目錄（自動建立）
-│   ├── comic_20240101_120000/
-│   │   ├── panel_1.png
-│   │   ├── panel_2.png
-│   │   ├── panel_3.png
-│   │   └── panel_4.png
-│   └── comic_script_20240101_120000.json
+├── comic_generator.py # 主要生成器類別
+├── main.py # 命令列介面
+├── comic_demo.ipynb # 示範 Notebook
+├── requirements.txt # Python 套件需求
+├── README.md # 說明文檔
+├── comic_output/ # 輸出目錄（自動建立）
+│ ├── comic_20240101_120000/
+│ │ ├── panel_1.png
+│ │ ├── panel_2.png
+│ │ ├── panel_3.png
+│ │ └── panel_4.png
+│ └── comic_script_20240101_120000.json
 └── 參考檔案/
-    ├── gemini_google_search_example.py
-    ├── gemini_image_example.py
-    └── gemini_struct_output_example.py
+├── gemini_google_search_example.py
+├── gemini_image_example.py
+└── gemini_struct_output_example.py
 ```
 
 ## 🔧 API 說明
