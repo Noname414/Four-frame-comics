@@ -24,7 +24,7 @@ class ComicPanel(BaseModel):
     panel_number: int          # 格數 (1-4)
     scene_description: str     # 畫面描述
     dialogue: str              # 對白
-    narrative_function: str    # 敘事功能
+    narrative_function: str    # 敘事功能 (起/承/轉/合)
     english_prompt: str        # 英文圖像生成prompt
 
 class ComicScript(BaseModel):
@@ -154,8 +154,12 @@ class ComicGenerator:
         - 結果: {news_analysis.result}
         - 摘要: {news_analysis.summary}
         
-        請創作一個具有趣的四格漫畫：
-
+        請創作一個具有「起承轉合」結構的四格漫畫：
+        
+        第1格 (起)：設定場景和人物，引入問題或情況
+        第2格 (承)：發展情節，展現衝突或挑戰
+        第3格 (轉)：意外轉折或高潮時刻
+        第4格 (合)：結局，通常帶有幽默或諷刺效果
         
         每格都要包含：
         - 生動的畫面描述 (適合漫畫風格)
