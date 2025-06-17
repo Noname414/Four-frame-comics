@@ -5,3 +5,4 @@ __pycache__/
 comic_output/
 test_output/ 
 test*
+demo_output/

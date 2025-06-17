@@ -14,10 +14,10 @@ def main():
     print("=" * 50)
     
     # 檢查 API 金鑰
-    # api_key = os.getenv('GENAI_API_KEY')
+    # api_key = os.getenv('GEMINI_API_KEY')
     # if not api_key:
-    #     print("⚠️  請設定 GENAI_API_KEY 環境變數")
-    #     print("例如: export GENAI_API_KEY='你的API金鑰'")
+    #     print("⚠️  請設定 GEMINI_API_KEY 環境變數")
+    #     print("例如: export GEMINI_API_KEY='你的API金鑰'")
     #     return
     
     # 初始化生成器

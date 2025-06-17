@@ -39,7 +39,7 @@ class ComicGenerator:
     def __init__(self, api_key: Optional[str] = None):
         """初始化生成器"""
         if api_key:
-            os.environ['GENAI_API_KEY'] = api_key
+            os.environ['GEMINI_API_KEY'] = api_key
         self.client = genai.Client()
         self.model_id = "gemini-2.0-flash"
         self.image_model_id = "gemini-2.0-flash-preview-image-generation"
